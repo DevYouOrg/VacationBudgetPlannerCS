@@ -1,0 +1,7 @@
+C:\Users\hphifer\source\repos\VacationBudgetPlannerCS\VacationBudgetApp\bin\Debug\VacationBudgetApp.exe.config
+C:\Users\hphifer\source\repos\VacationBudgetPlannerCS\VacationBudgetApp\bin\Debug\VacationBudgetApp.exe
+C:\Users\hphifer\source\repos\VacationBudgetPlannerCS\VacationBudgetApp\bin\Debug\VacationBudgetApp.pdb
+C:\Users\hphifer\source\repos\VacationBudgetPlannerCS\VacationBudgetApp\obj\Debug\VacationBudgetApp.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\VacationBudgetPlannerCS\VacationBudgetApp\obj\Debug\VacationBudgetApp.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\VacationBudgetPlannerCS\VacationBudgetApp\obj\Debug\VacationBudgetApp.exe
+C:\Users\hphifer\source\repos\VacationBudgetPlannerCS\VacationBudgetApp\obj\Debug\VacationBudgetApp.pdb
